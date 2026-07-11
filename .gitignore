@@ -1,1 +1,17 @@
+# Stata
+*.log
+*.smcl
+*.stpr
+*.stdat
+*.ster
+*.stsem
+*.gph
+*.dta.lock
 
+# Système
+.DS_Store
+Thumbs.db
+
+# Temporaires
+*.tmp
+*.temp
